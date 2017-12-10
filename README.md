@@ -1,2 +1,2 @@
 # jd-shop
-branch: good-edit
+branch: master
